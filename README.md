@@ -1,5 +1,5 @@
-## Hi there🍀
-🌈 I'm learning `Machine Learning`, `Deep Learning`, `Data Analysis`
+### Hi there🍀
+🌈 I'm learning `Data Analysis`, `Machine Learning`, `Deep Learning`
 
 <h3 align="center">✨ My Most Used Languages ✨</h3>
 <p align="center">

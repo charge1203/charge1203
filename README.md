@@ -1,6 +1,5 @@
-### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charge1203&theme=dark&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charge1203&theme=dark&show_icons=true&theme=shadow_green)
 
 <!--
 **charge1203/charge1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
